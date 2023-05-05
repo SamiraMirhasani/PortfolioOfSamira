@@ -5,6 +5,7 @@
 }
 body {
   font-family: var(--primary-font-family);
+  max-width: 992px;
 }
 header {
   background: var(--branding-color);
@@ -45,6 +46,7 @@ p {
   font-size: 15px;
   font-weight: 400;
   line-height: 28px;
+  padding: 20px;
 }
 
 .ContactInfo {
@@ -62,4 +64,22 @@ footer {
   font-size: 14px;
   font-weight: 400;
   line-height: 25px;
+}
+.btn-branding-outline {
+  color: var(--primary-color);
+  background: var(--branding-color);
+  border: 1px solid var(--primary-color);
+  border-radius: 10px;
+  font-size: 15px;
+  line-height: 23px;
+  padding: 12px 25px;
+  margin: 20px 10px;
+}
+.project-description {
+  padding-left: 20px;
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: 40px;
+  }
 }
