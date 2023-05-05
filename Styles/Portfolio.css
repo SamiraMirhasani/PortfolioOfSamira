@@ -1,8 +1,15 @@
+:root {
+  --branding-color: #150c3f;
+  --primary-color: white;
+  --primary-font-family: "Lato-light", "Lato", "sans-serif";
+}
+body {
+  font-family: var(--primary-font-family);
+}
 header {
-  background: #150c3f;
+  background: var(--branding-color);
   height: 50px;
-  color: white;
-  font-family: "Lato-light", "Lato", "sans-serif";
+  color: var(--primary-color);
   font-size: 22px;
   font-weight: 400;
   line-height: 31px;
@@ -10,10 +17,10 @@ header {
   padding: 10px;
 }
 h1,
-h2 {
-  color: #150c3f;
+h2,
+p {
+  color: var(--branding-color);
   text-align: center;
-  font-family: "Lato-light", "Lato", "sans-serif";
   font-style: normal;
 }
 h1 {
@@ -28,8 +35,31 @@ h2 {
   line-height: 33px;
 }
 .profilePicture {
-  width: 150px;
-  margin-right: ;
-  border: 1px solid white;
-  border-radius: 80px;
+  display: block;
+  margin: 50px auto 0 auto;
+  width: 300px;
+  border: 1px solid var(--primary-color);
+  border-radius: 150px;
+}
+p {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+}
+
+.ContactInfo {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+  background: var(--branding-color);
+  text-align: center;
+  color: var(--primary-color);
+  padding: 30px;
+}
+footer {
+  text-align: center;
+  padding: 50px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 25px;
 }
