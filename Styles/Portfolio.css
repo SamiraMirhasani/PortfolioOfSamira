@@ -1,14 +1,35 @@
 header {
   background: #150c3f;
+  height: 50px;
   color: white;
+  font-family: "Lato-light", "Lato", "sans-serif";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 31px;
+  font-style: normal;
+  padding: 10px;
 }
-h1 {
+h1,
+h2 {
   color: #150c3f;
   text-align: center;
   font-family: "Lato-light", "Lato", "sans-serif";
+  font-style: normal;
+}
+h1 {
   font-size: 72px;
   font-weight: 700;
   line-height: 90px;
-  font-style: normal;
-  padding: 50px;
+  padding: 30px;
+}
+h2 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 33px;
+}
+.profilePicture {
+  width: 150px;
+  margin-right: ;
+  border: 1px solid white;
+  border-radius: 80px;
 }
