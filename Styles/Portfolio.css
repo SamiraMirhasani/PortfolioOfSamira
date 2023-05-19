@@ -81,6 +81,7 @@ footer {
 .project-description {
   padding-left: 20px;
 }
+
 @media (max-width: 768px) {
   h1 {
     font-size: 40px;
@@ -88,4 +89,17 @@ footer {
   h2 {
     font-size: 16px;
   }
+}
+.iust-logo {
+  margin-top: 500px;
+}
+.master,
+.bachelor,
+ul {
+  background: #e3e3e3;
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+}
+ul {
+  list-style: none;
 }
