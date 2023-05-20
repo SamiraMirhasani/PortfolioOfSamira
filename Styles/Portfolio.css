@@ -6,6 +6,7 @@
 }
 body {
   font-family: var(--primary-font-family);
+  line-height: 1.5;
 }
 header {
   background: var(--branding-color);
@@ -13,7 +14,6 @@ header {
   color: var(--primary-color);
   font-size: 22px;
   font-weight: 400;
-  line-height: 31px;
   font-style: normal;
   padding: 10px;
 }
@@ -23,7 +23,6 @@ p {
   color: var(--branding-color);
   text-align: center;
   font-style: normal;
-  line-height: 1.5;
 }
 h1 {
   font-size: 72px;
@@ -47,29 +46,27 @@ h2,
 p {
   font-size: 15px;
   font-weight: 400;
-  line-height: 28px;
+
   padding: 20px;
 }
 
 .ContactInfo {
   font-size: 15px;
   font-weight: 400;
-  line-height: 28px;
   background: var(--branding-color);
   text-align: center;
   color: var(--primary-color);
   padding: 30px;
 }
 .ContactInfo a,
-h2 {
-  color: var(--primary-color);
-}
 footer {
   text-align: center;
   padding: 50px;
   font-size: 14px;
   font-weight: 400;
-  line-height: 25px;
+}
+.ContactInfo a {
+  color: var(--primary-color);
 }
 .btn-branding-outline {
   color: var(--primary-color);
@@ -77,7 +74,6 @@ footer {
   border: 1px solid var(--primary-color);
   border-radius: 10px;
   font-size: 15px;
-  line-height: 23px;
   padding: 12px 25px;
   margin: 20px 10px;
 }
@@ -91,12 +87,16 @@ footer {
 
 @media (max-width: 768px) {
   h1 {
-    font-size: 40px;
+    font-size: 32px;
   }
   h2 {
-    font-size: 16px;
+    font-size: 14px;
+  }
+  p {
+    font-size: 10px;
   }
 }
+
 .iust-logo {
   margin-top: 500px;
 }
@@ -114,4 +114,8 @@ ul {
   padding: 10px 20px;
   border: 1px solid var(--secondary-color);
   border-radius: 5px;
+  transition: all 100ms ease-in-out;
+}
+a {
+  text-decoration: none;
 }
