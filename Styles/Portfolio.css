@@ -101,7 +101,8 @@ footer {
   margin-top: 500px;
 }
 .master,
-.bachelor {
+.bachelor,
+.work-experience {
   background: var(--secondary-color);
   border: 1px solid var(--secondary-color);
   border-radius: 5px;

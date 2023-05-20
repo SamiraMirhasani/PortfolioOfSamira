@@ -1,0 +1,47 @@
+   <h1>Reseach Projects</h1>
+    <div class="research-project">
+      Prefab Multi-family Housing Design Based on Flexibility Supervisors: Dr.
+      Abbas Yazdanfar - Dr. Seyedbagher Hosseini - Dr. Ahmad Ekhlassi Purpose: -
+      Solving the problems related to off-site construction development and its
+      social rejection in Iran. - Using prefabricated modular design to generate
+      numerous flexible building layouts as a part of customization
+      (pre-construction). - Responding to the flexibility factors to meet the
+      user's future needs (post-construction). Designing Commercial-Cultural
+      Centre. Supervisor: Dr. Mohammadali Khanmohammadi Purpose: - Creating
+      multi-functional spaces for social and cultural purposes alongside
+      economic goals. - Creating active and live spaces.
+    </div>
+    <h1>Reseach Papers</h1>
+    <div class="paper pt-4 mb-4">
+      - Samira Mirhasani, Melika Hoseini, "Study of the solutions for
+      facilitating 3D and 2D documentation in Iran's construction based on BIM",
+      The 5th International Conference on Building Information Modelling (BIM),
+      (Submitted in Persian) ​ - Maryam Behmanesh, Samira Mirhasani, Nastaran
+      Hasani, Maryam Khoshbakht, "Developing a Model for Barriers to BIM
+      Implementation to Promote Green Buildings in Developing Countries Using a
+      Dynamic System Approach: Kowsar Residential Towerin Mashhad as a Case
+      Study", Journal of Cleaner Production, (Under review) ​ ​ - Samira
+      Mirhasani, Nastaran Hasani,Abbas Yazdanfar, "Prefabrication-flexibility
+      paradigm in the technological construction of residential spaces",
+      (Working)
+    </div>
+    <h1>Licences & Certifications</h1>
+    <div class="license">
+      CEO (Tehran Construction Engineering Organization): Licensed Construction
+      Supervisor-Grade lll Link ​ SheCodes: Web development, Matt Delac Link ​
+      SheCodes: Introduction to coding, Matt Delac Link ​ Udemy: Parametric
+      Families for Autodesk Revit BIM LOD 200-400, Enrique Galicia Link ​ Udemy:
+      BIM Blueprints from Autodesk Revit, Enrique Galicia Link
+    </div>
+    <h1>Honors & Awards</h1>
+    <div class="honor pt-4 mb-4">
+      - Our dissertation was recognized as one of the best dissertations and
+      reached the semi-finals of the competition Thesis-of-The-Year. - Ranked
+      1st in School of Architecture and Environment Design at IUST University in
+      Master's Degree. ​ - Direct Admission Award for Master's Degree as top 10
+      percentile of the undergraduate students at IUST. ​ - 2nd Place in
+      Entrance Gate Competition in ISTT (Isfahan Science & Technology Town). ​ -
+      Ranked top 1% among more than 300,000 participants in the Iranian BS
+      Entrance exam (Ranked 111th).
+    </div>
+    <h1>Skills</h1>
